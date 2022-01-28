@@ -10,5 +10,6 @@ En este curso vemos de todo.
  * El verdadero amor por las buenas practicas.
  * Trucos muy locos del profesor.
  * Las personalidades multiples de freddy.
+ * Creado por el increible platzi team 
 
 & como amable recordatorio **este readme es un chiste** disenado para el ejemplo de como funciona. Si llegaste a aca vaya a hacer el [curso](https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/)
