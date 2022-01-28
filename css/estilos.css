@@ -14,7 +14,7 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em 0 0.5em 3em;
-    font-size: 30pt;
+    font-size: 20pt;
 }
 #Cabecera #logo
 {
@@ -27,7 +27,7 @@ body
 {
     padding: 0 0 0 1em;
     font-weight: normal;
-    font-size: 0.5cm;
+    font-size: 0.4cm;
 }
 
 #container 
@@ -35,12 +35,12 @@ body
 width: 70%;
 padding: 1em;
 text-align: justify;
-border: 1px solid #DDD;
+border: 1px solid rgb(245, 223, 77);
 margin: 0 auto;
 }
 #footer 
 {
-    background: rgb(147, 149, 151);
+    background: rgb(95, 75, 139);
     color: rgb(245, 223, 77);
     font-weight: bold;
     text-align: center;
